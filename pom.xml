@@ -14,6 +14,7 @@
 		<gwt.version>2.6.0</gwt.version>
 		<gwt.maven.version>2.6.0</gwt.maven.version>
 		<gdx.version>1.11.0</gdx.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
@@ -94,7 +95,6 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-
 
 	<repositories>
 		<repository>
