@@ -1,0 +1,10 @@
+
+.project
+
+.settings/
+
+android/.classpath
+
+core/.classpath
+
+desktop/.classpath
